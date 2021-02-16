@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Arora</h1>
 <h3 align="center">I am currently pursuing PGDM in the field of Big Data Analytics from GIM.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6581243-Digital-Marketing?utm_source=Clipboard_Shot&utm_campaign=Folio&utm_content=Digital%20Marketing&utm_medium=Social_Share">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavvikasarora&label=Profile%20views&color=0e75b6&style=flat" alt="pranavvikasarora" /> </p>
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
