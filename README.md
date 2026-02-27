@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Pranav Arora
-**I am a passionate Cloud Data Engineer with over 3 years of experience turning raw data into meaningful insights. I work with tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, Apache Airflow and Google Big Query to build efficient data pipelines and solutions in the cloud.**
+**I am a passionate Cloud Data Engineer turning raw data into meaningful insights. I work with tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, Apache Airflow and Google Big Query to build efficient data pipelines and solutions in the cloud.**
 
 Email Me 👉 ✉️ **pranav.v.arora@gmail.com** For Collaboration/Projects. 😊😊
 
